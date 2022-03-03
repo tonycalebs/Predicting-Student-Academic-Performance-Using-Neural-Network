@@ -1,0 +1,40 @@
+@relation TESTDATA
+
+@attribute Gender numeric
+@attribute Mstatus numeric
+@attribute Level numeric
+@attribute TypeSec numeric
+@attribute LocSec numeric
+@attribute NoCred numeric
+@attribute JAMB numeric
+@attribute AgeAdm numeric
+@attribute TimeHome numeric
+@attribute Dream numeric
+@attribute XtraClass numeric
+@attribute HrPstudy numeric
+@attribute TimeStudy numeric
+@attribute HangFriends numeric
+@attribute Assimi numeric
+@attribute Textbooks numeric
+@attribute WhenText numeric
+@attribute socialmedia numeric
+@attribute connect2social numeric
+@attribute Fqua numeric
+@attribute Mqual numeric
+@attribute Fstatus numeric
+@attribute CLASS numeric
+
+@data
+1,1,4,1,1,8,4,2,2,1,1,1,4,1,1,1,1,1,1,8,6,1,2.858891
+1,1,4,2,1,7,2,2,3,2,2,2,3,1,1,1,2,1,2,6,7,2,2.865059
+1,1,2,1,1,7,1,2,2,1,2,2,4,2,2,1,2,1,2,8,8,2,2.840486
+1,2,2,2,1,5,2,2,3,1,2,1,3,2,2,1,2,1,2,7,7,2,2.916703
+2,1,2,1,1,8,3,2,2,1,1,2,1,1,1,1,1,1,2,6,6,2,2.830257
+1,1,4,1,2,9,1,2,3,1,1,2,3,1,1,1,2,1,1,6,6,2,2.965698
+2,1,4,2,1,8,1,1,1,1,1,2,4,1,1,1,2,1,1,2,5,2,2.901545
+1,1,5,1,2,7,1,2,1,2,2,2,1,1,1,1,2,1,1,2,5,2,2.905993
+1,1,1,1,2,7,3,3,3,1,1,2,1,1,1,1,2,2,2,6,8,2,2.922728
+1,1,1,1,1,5,1,2,3,1,1,1,1,1,1,1,2,1,1,6,6,2,2.832976
+1,1,1,2,1,8,2,2,3,1,1,2,4,2,1,1,2,1,2,6,8,2,2.854521
+1,1,3,1,2,9,2,2,2,2,2,1,4,1,2,1,2,1,1,4,5,2,2.835694
+1,1,2,1,2,8,1,2,2,1,2,1,4,2,1,1,1,1,1,5,4,2,2.885168
